@@ -41,6 +41,7 @@ int main(void)
   while (i<=150);
   
   printf("+-------------+-------------+\n");
+  
 
 return 0;
 }
